@@ -1,0 +1,15 @@
+07-08-2020 23:54:49 INFO     [logging in python.py:47] This Is Info Log
+07-08-2020 23:54:50 DEBUG    [logging in python.py:48] This is Debug Log
+07-08-2020 23:54:50 CRITICAL [logging in python.py:49] This is Critical Log
+07-08-2020 23:54:50 ERROR    [logging in python.py:50] An Error Occurred
+07-08-2020 23:54:50 WARNING  [logging in python.py:51] This Is Warning Log
+07-08-2020 23:55:48 INFO     [logging to a file.py:13] This Is Info Log
+07-08-2020 23:55:48 DEBUG    [logging to a file.py:14] This is Debug Log
+07-08-2020 23:55:48 CRITICAL [logging to a file.py:15] This is Critical Log
+07-08-2020 23:55:48 ERROR    [logging to a file.py:16] An Error Occurred
+07-08-2020 23:55:48 WARNING  [logging to a file.py:17] This Is Warning Log
+07-08-2020 23:57:33 INFO     [logging to a file.py:13] This Is Info Log
+07-08-2020 23:57:33 DEBUG    [logging to a file.py:14] This is Debug Log
+07-08-2020 23:57:33 CRITICAL [logging to a file.py:15] This is Critical Log
+07-08-2020 23:57:33 ERROR    [logging to a file.py:16] An Error Occurred
+07-08-2020 23:57:33 WARNING  [logging to a file.py:17] This Is Warning Log

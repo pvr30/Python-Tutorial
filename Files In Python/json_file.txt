@@ -1,0 +1,1 @@
+[{"club": "club", "city": "city", "country": "country"}, {"club": "Club_1", "city": "Ahmadabad", "country": "India"}, {"club": "Club_2", "city": "Surat", "country": "India"}, {"club": "Club_3", "city": "Rajkot", "country": "India"}]
